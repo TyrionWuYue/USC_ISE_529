@@ -23,7 +23,7 @@ Ratio =, <>, <, >, +/-, *, /
 
 6. Techniques for univariate and bivariate analysis
 
-7. Correlation matrix interpreation
+7. Correlation matrix interpretation
 
 8. Selecting attributes to include in analytic dataset
 
