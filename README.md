@@ -5,9 +5,9 @@
 
 ## Module 2 : Data Preparation and Visualization
 
-1. Attribute types
-Categories:
-Nominal =, <> 
+1. Attribute types  
+Categories:  
+Nominal =, <>  
 Ordinal =, <>, <, >
 Measures:
 Interval =, <>, <, >, +/-
