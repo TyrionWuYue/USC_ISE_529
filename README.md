@@ -8,10 +8,10 @@
 1. Attribute types  
 Categories:  
 Nominal =, <>  
-Ordinal =, <>, <, >
-Measures:
-Interval =, <>, <, >, +/-
-Ratio =, <>, <, >, +/-, *, /
+Ordinal =, <>, <, >  
+Measures:  
+Interval =, <>, <, >, +/-  
+Ratio =, <>, <, >, +/-, *, /  
 
 2. Relational vs dimensional data structures
 
