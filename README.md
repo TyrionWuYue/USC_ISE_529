@@ -5,7 +5,7 @@
 
 ## Module 2 : Data Preparation and Visualization
 
-### 1. Attribute types
+ 1. Attribute types
 ### 2. Relational vs dimensional data structures
 ### 3. Tidy data formats
 ### 4. Joining data
