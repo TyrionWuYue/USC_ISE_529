@@ -6,13 +6,27 @@
 ## Module 2 : Data Preparation and Visualization
 
 1. Attribute types
+Categories:
+Nominal =, <> 
+Ordinal =, <>, <, >
+Measures:
+Interval =, <>, <, >, +/-
+Ratio =, <>, <, >, +/-, *, /
+
 2. Relational vs dimensional data structures
+
 3. Tidy data formats
+
 4. Joining data
+
 5. Handling missing and noisy data
+
 6. Techniques for univariate and bivariate analysis
+
 7. Correlation matrix interpreation
+
 8. Selecting attributes to include include in analytic dataset
+
 
 ## Module 3 : Modeling Introduction 
 
