@@ -25,7 +25,7 @@ Ratio =, <>, <, >, +/-, *, /
 
 7. Correlation matrix interpreation
 
-8. Selecting attributes to include include in analytic dataset
+8. Selecting attributes to include in analytic dataset
 
 
 ## Module 3 : Modeling Introduction 
