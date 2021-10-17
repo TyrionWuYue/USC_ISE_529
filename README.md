@@ -50,10 +50,17 @@ Ratio =, <>, <, >, +/-, *, /
 ## Module 5 : Linear Methods for Classification
 
 1. Odds ratios
+The odds ratio (or just odds) is an expression of how much more likely an event is to occure than not occur.  
 2. Interpreting coefficients
+
 3. Maximum likelihood estimation
+
 4. Confounding
+
 5. Misclassification rates
+
 6. Sensitivity/specificity
+
 7. ROC charts - definition and interpretaion
+
 8. Lift curves - definition and interpretaion
