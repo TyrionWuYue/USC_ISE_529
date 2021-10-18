@@ -6,12 +6,14 @@
 ## Module 2 : Data Preparation and Visualization
 
 1. Attribute types  
-Categories:  
+-Categories:  
 Nominal =, <>  
 Ordinal =, <>, <, >  
-Measures:  
+-Measures:  
 Interval =, <>, <, >, +/-  
-Ratio =, <>, <, >, +/-, *, /  
+Eg: Temperature  
+Ratio =, <>, <, >, +/-, *, /, (meaning full zero point)  
+Eg: Age, Length, Mass  
 
 2. Relational vs dimensional data structures
 
