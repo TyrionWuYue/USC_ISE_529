@@ -15,8 +15,19 @@ Eg: Temperature
 Ratio =, <>, <, >, +/-, *, /, (meaning full zero point)  
 Eg: Age, Length, Mass  
 
-2. Relational vs dimensional data structures
-
+2. Relational vs dimensional data structures  
+Relational:  
+A. Designed for optimized read/update/delete processing of individual transactions  
+B. “Normalized” data model eliminates redundant data  
+C. Because there is no redundant data, there is no possibility of inconsistencies  
+  
+Dimensional:  
+A. Designed for optimized summarization and filtering of large numbers of transactions  
+B. “Denormalized” data model allows significant redundancy as a tradeoff for analytics and reporting efficiency  
+C. Easier for analyst to understand  
+  
+ 
+ 
 3. Tidy data formats
 
 4. Joining data
