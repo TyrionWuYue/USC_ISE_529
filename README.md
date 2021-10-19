@@ -33,7 +33,8 @@ C. Easier for analyst to understand
 
 5. Handling missing and noisy data
 
-6. Techniques for univariate and bivariate analysis
+6. Techniques for univariate and bivariate analysis  
+PPT 141
 
 7. Correlation matrix interpretation
 
