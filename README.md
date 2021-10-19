@@ -20,7 +20,6 @@ Relational:
 A. Designed for optimized read/update/delete processing of individual transactions  
 B. “Normalized” data model eliminates redundant data  
 C. Because there is no redundant data, there is no possibility of inconsistencies  
-  
 Dimensional:  
 A. Designed for optimized summarization and filtering of large numbers of transactions  
 B. “Denormalized” data model allows significant redundancy as a tradeoff for analytics and reporting efficiency  
